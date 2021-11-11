@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 I tester from USA 7 I AM ADDING CODE HERE.
+=======
+ I tester from USA 7 I AM ADDING CODE HERE.
+>>>>>>> 7e6fe946d7a7f6dc0965915fede19232da48eb5e
  I am done for today India team continue from here.indian team continue from here
+
+................
+I tester from india  I AM ADDING CODE HERE.
+USAteam continue from here.
